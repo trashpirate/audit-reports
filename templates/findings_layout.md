@@ -1,5 +1,5 @@
+<!-- ## S-# -->
 ### [S-#] TITLE (Root + Impact)
-
 
 **Description**  
 
@@ -20,6 +20,8 @@
 
 <details><summary>Code</summary>
 
+Place following code into `Test.t.sol`:
+
     ```solidity
 	
 	```
@@ -27,3 +29,5 @@
 <details>
 
 **Recommended mitigation**  
+
+<!-- #end -->
