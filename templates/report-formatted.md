@@ -27,8 +27,8 @@ header-includes:
 
 <!-- Your report starts here! -->
 
-Prepared by: [Trashpirate](https://trashpirate.io)
-Lead Auditors: 
+Prepared by: [Trashpirate](https://trashpirate.io)  
+Lead Auditors:  
 - Nadina Oates
 
 # Table of Contents

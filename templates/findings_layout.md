@@ -5,7 +5,7 @@
 
 <details><summary>1 Found Instances</summary>
 
-- Found in `src/Contract.sol` [Line: 1](src/Contract.sol#L1)
+- Found in `src/Contract.sol` [Line: 1](src/Contract.sol#L1)  
 
 	```solidity
 	
